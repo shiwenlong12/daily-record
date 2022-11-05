@@ -11,4 +11,5 @@
 一：研究配置Windows上运行rustlings的环境。
 ### 2022.11.04
 一：完成了rustlings的变量、函数和if。
-
+### 2022.11.05
+一：参加了rustlings的第二节课。
